@@ -1,7 +1,7 @@
 import java.util.HashSet;
 
 @SuppressWarnings("unused")
-public class ContainsDuplicate {
+class ContainsDuplicate {
     // create a set that contains the first number
     // iterate over the rest of the numbers
     // if the set contains the current number, return true
