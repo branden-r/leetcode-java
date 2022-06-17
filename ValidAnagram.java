@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 @SuppressWarnings("unused")
-class Solution {
+class ValidAnagram {
     // if the two strings are of different lengths, return false
     //
     // create a mapping from character to integer to count the number of each character in s
