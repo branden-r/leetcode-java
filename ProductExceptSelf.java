@@ -1,4 +1,5 @@
-class Solution {
+@SuppressWarnings("unused")
+class ProductExceptSelf {
     // let r be an array of integers the same size as nums
     // let p equal one
     // iterate over nums from left to right using index i
