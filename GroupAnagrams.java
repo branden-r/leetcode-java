@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 @SuppressWarnings("unused")
-class Solution {
+class GroupAnagrams {
     // create a map from a string to a list of strings
     // the key is a representation of a string that is the same for itself and all of its anagrams
     // the value is a reference to the list containing that string's anagrams
