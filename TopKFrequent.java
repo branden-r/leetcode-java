@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 @SuppressWarnings("unused")
-class TopKFrequentElements {
+class TopKFrequent {
     // count the frequency of every num
     //
     // use buckets of nums to find the top k frequencies
